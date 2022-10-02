@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1EAF75FB28E8BB5400D8FEF2 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAF75FA28E8BB5400D8FEF2 /* CircleImage.swift */; };
+		1EAF75FD28E8BDC300D8FEF2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EAF75FC28E8BDC300D8FEF2 /* MapView.swift */; };
 		1EE24FB628E35FF8007BDFDE /* Swift_UI_masterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE24FB528E35FF8007BDFDE /* Swift_UI_masterApp.swift */; };
 		1EE24FB828E35FF8007BDFDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE24FB728E35FF8007BDFDE /* ContentView.swift */; };
 		1EE24FBA28E35FFB007BDFDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EE24FB928E35FFB007BDFDE /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1EAF75FA28E8BB5400D8FEF2 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		1EAF75FC28E8BDC300D8FEF2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		1EE24FB228E35FF8007BDFDE /* Swift-UI-master.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-UI-master.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EE24FB528E35FF8007BDFDE /* Swift_UI_masterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_UI_masterApp.swift; sourceTree = "<group>"; };
 		1EE24FB728E35FF8007BDFDE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 				1EE24FB728E35FF8007BDFDE /* ContentView.swift */,
 				1EE24FB928E35FFB007BDFDE /* Assets.xcassets */,
 				1EE24FBB28E35FFB007BDFDE /* Preview Content */,
+				1EAF75FA28E8BB5400D8FEF2 /* CircleImage.swift */,
+				1EAF75FC28E8BDC300D8FEF2 /* MapView.swift */,
 			);
 			path = "Swift-UI-master";
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1EE24FB828E35FF8007BDFDE /* ContentView.swift in Sources */,
+				1EAF75FD28E8BDC300D8FEF2 /* MapView.swift in Sources */,
 				1EE24FB628E35FF8007BDFDE /* Swift_UI_masterApp.swift in Sources */,
+				1EAF75FB28E8BB5400D8FEF2 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
